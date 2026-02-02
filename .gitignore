@@ -1,1 +1,5 @@
 *.pdf
+*.zip
+*.rar
+node_modules/
+__pycache__/
